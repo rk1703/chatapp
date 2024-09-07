@@ -17,7 +17,7 @@
 <img src="https://i.postimg.cc/B6xZH5HT/chat.png" alt="project-screenshot">
 
 
-Some Features:
+<h2>🧐 Features</h2>
 
 -   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 -   🎃 Authentication && Authorization with JWT
