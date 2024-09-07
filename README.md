@@ -1,6 +1,21 @@
-# MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+<h1 align="center" id="title">ChatterBox</h1>
 
-![Demo App](https://i.ibb.co/fXmZdnz/Screenshot-10.png)
+<p align="center"><img src="https://socialify.git.ci/rk1703/chatapp/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<h2>🚀 Demo</h2>
+
+[https://chat.rkworld.me/](https://chat.rkworld.me/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.postimg.cc/Y2zqS3pk/login.png" alt="project-screenshot">
+
+<img src="https://i.postimg.cc/prC2120y/signup.png" alt="project-screenshot">
+
+<img src="https://i.postimg.cc/4ysf5KQr/main.png" alt="project-screenshot">
+
+<img src="https://i.postimg.cc/B6xZH5HT/chat.png" alt="project-screenshot">
+
 
 Some Features:
 
@@ -12,6 +27,17 @@ Some Features:
 -   🐞 Error handling both on the server and on the client
 -   ⭐ At the end Deployment like a pro for FREE!
 -   ⏳ And much more!
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React
+*   Express JS
+*   MongoDB
+*   Socket.io
+*   Tailwind
+*   Zustand
 
 ### Setup .env file
 
@@ -33,3 +59,5 @@ npm run build
 ```shell
 npm start
 ```
+
+<h2 align="center">Made with💖by RK</h2>
